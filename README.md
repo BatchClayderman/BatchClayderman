@@ -2,10 +2,6 @@
 
 This is a full-time Ph.D. student at [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). 
 
----
-
-# About Me
-
 - **Career**
   - Academics
     - Major Research Directions: Malware Detection and Data Management
@@ -20,7 +16,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Network Platforms: Only Share Things on GitHub, CSDN, WeChat, QQ, Telegram, and WhatsApp. 
   - Love Philosophy: Hope the current love is the last love
 
-# Non-profile Organization
+## Non-profile Organization
 
 - Universe Organization
   - GooseBt Studio
