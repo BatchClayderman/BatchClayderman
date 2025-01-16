@@ -19,3 +19,12 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 - **Life**
   - Network Platforms: Only Share Things on GitHub, CSDN, WeChat, QQ, Telegram, and WhatsApp. 
   - Love Philosophy: Hope the current love is the last love
+
+# Non-profile Organization
+
+- Universe Organization
+  - GooseBt Studio
+    - Win Linux DOS
+    - Cloud-inspired Music Team
+    - TMLP Team
+  - Other Studios
