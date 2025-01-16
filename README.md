@@ -15,3 +15,4 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Project Directions: KMDF-based Drivers, Cryptography Schemes, TMLP-related Development, Cross-language Generation, General Shell/Cmd Programming, AI-related Programming, Overture Building, etc. 
 - Music
 - Life
+  - Only Share things on GitHub, CSDN, WeChat, QQ, Telegram, and WhatsApp. 
