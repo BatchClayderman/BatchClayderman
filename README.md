@@ -6,23 +6,20 @@ This is a full-time Ph.D. student in [Department of Computer Science](https://ww
 
 # About Me
 
-## Career
-
-### Academics
-
-- Publications
-  - Current
-    - Malware Detection
-    - Data Management
-  - Involved
-    - Bioinformatics
-    - Digital Image Processing
-    - FinTech
-    - Game Theory
-    - Halloysite
-    - Natural Computing
-    - Natural Language Processing
-    - Secure Multiparty Computation
+- Career
+  - Academics
+    - Major Research Directions
+      - Malware Detection
+      - Data Management
+    - Involved Research Directions
+      - Bioinformatics
+      - Digital Image Processing
+      - FinTech
+      - Game Theory
+      - Halloysite
+      - Natural Computing
+      - Natural Language Processing
+      - Secure Multiparty Computation
 
 ### Engineering
 
