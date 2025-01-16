@@ -8,21 +8,10 @@ This is a full-time Ph.D. student in [Department of Computer Science](https://ww
 
 - Career
   - Academics
-    - Major Research Directions
-      - Malware Detection
-      - Data Management
-    - Involved Research Directions
-      - Bioinformatics
-      - Digital Image Processing
-      - FinTech
-      - Game Theory
-      - Halloysite
-      - Natural Computing
-      - Natural Language Processing
-      - Secure Multiparty Computation
-
-### Engineering
-
-## Music
-
-## Life
+    - Major Research Directions: Malware Detection and Data Management
+    - Involved Research Directions: Bioinformatics, Digital Image Processing, FinTech, Game Theory, Halloysite, Natural Computing, Natural Language Processing, and Secure Multiparty Computation
+  - Engineering
+    - Programming Languages: C/C++, Python, Java, Shell/Cmd, Ove, etc. 
+    - Project Directions: KMDF-based Drivers, Cryptography Schemes, TMLP-related Development, Cross-language Generation, General Shell/Cmd Programming, AI-related Programming, Overture Building, etc. 
+- Music
+- Life
