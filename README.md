@@ -14,8 +14,8 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Programming Languages: C/C++, Python, Java, Shell/Cmd, Ove, etc. 
     - Project Directions: KMDF-based Drivers, Cryptography Schemes, TMLP-related Development, Cross-language Generation, General Shell/Cmd Programming, AI-related Programming, Overture Building, etc. 
 - Music
-  - 
-  - Converting: From Pure Music to Images, Videos, Plain Text, Philosophic Text, Sensing Text, etc.  
+  - Categories: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music. 
+  - Generating from Pure Music to: Images, Videos, Plain Text, Philosophic Text, Sensing Text, etc. 
 - Life
   - Network Platforms: Only Share Things on GitHub, CSDN, WeChat, QQ, Telegram, and WhatsApp. 
   - Love Philosophy: Hope the current love is the last love
