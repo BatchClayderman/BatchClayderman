@@ -13,14 +13,15 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Categories: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music. 
   - Generating from Pure Music to: Images, Videos, Plain Text, Philosophic Text, Sensing Text, etc. 
 - **Life**
-  - Network Platforms: Only Share Things on GitHub, CSDN, WeChat, QQ, Telegram, and WhatsApp. 
+  - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, and Aobi Island
   - Love Philosophy: Hope the current love is the last love
 
 ## Non-profile Organization
 
-- Universe Organization
-  - GooseBt Studio
-    - Win Linux DOS
-    - Cloud-inspired Music Team
-    - TMLP Team
+- [Universe Organization](https://github.com/Universe-Organization)
+  - [GooseBt Studio](https://github.com/GooseBt-Studio)
+    - [Cloud-inspired Music Team](https://github.com/Cloud-inspired-Music-Team)
+    - [Proposition Group Planning Team](https://github.com/Proposition-Group-Planning-Team)
+    - [TMLP Team](https://github.com/TMLP-Team)
+    - [Win Linux DOS Team](https://github.com/Win-Linux-DOS-Team)
   - Other Studios
