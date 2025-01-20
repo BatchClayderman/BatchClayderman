@@ -7,7 +7,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Major Research Directions: Malware Detection and Data Management
     - Involved Research Directions: Bioinformatics, Digital Image Processing, FinTech, Game Theory, Halloysite, Natural Computing, Natural Language Processing, and Secure Multiparty Computation
   - Engineering
-    - Programming Languages: C/C++, Python, Java, Shell/Cmd, Ove, TeX, etc. [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatchClayderman&hide=CMake,Objective-C%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    - Programming Languages: C/C++, Python, Java, Shell/Cmd, Ove, TeX, HTML/CSS/JS/PHP, etc. 
     - Project Directions: [KMDF-based Drivers](https://github.com/GooseBt-Studio), Cryptography Schemes, [TMLP-related Development](https://github.com/TMLP-Team), Cross-programming-language Generation, [General Shell/Cmd Programming](https://github.com/Win-Linux-DOS-Team), AI-related Programming, Overture Building, etc. 
 - **Music**
   - Categories of Nature-inspired Music: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music. 
@@ -25,3 +25,5 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - [TMLP Team](https://github.com/TMLP-Team)
     - [Win Linux DOS Team](https://github.com/Win-Linux-DOS-Team)
   - Other Studios
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatchClayderman&hide=CMake,Objective-C%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
