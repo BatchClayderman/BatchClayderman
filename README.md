@@ -7,11 +7,11 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Major Research Directions: Malware Detection and Data Management
     - Involved Research Directions: Bioinformatics, Digital Image Processing, FinTech, Game Theory, Halloysite, Natural Computing, Natural Language Processing, and Secure Multiparty Computation
   - Engineering
-    - Programming Languages: C/C++, Python, Java, Shell/Cmd, Ove, etc. 
-    - Project Directions: KMDF-based Drivers, Cryptography Schemes, TMLP-related Development, Cross-language Generation, General Shell/Cmd Programming, AI-related Programming, Overture Building, etc. 
+    - Programming Languages: C/C++, Python, Java, Shell/Cmd, Ove, TeX, etc. 
+    - Project Directions: [KMDF-based Drivers](https://github.com/GooseBt-Studio), Cryptography Schemes, [TMLP-related Development](https://github.com/TMLP-Team), Cross-programming-language Generation, [General Shell/Cmd Programming](https://github.com/Win-Linux-DOS-Team), AI-related Programming, Overture Building, etc. 
 - **Music**
-  - Categories: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music. 
-  - Generating from Pure Music to: Images, Videos, Plain Text, Philosophic Text, Sensing Text, etc. 
+  - Categories of Nature-inspired Music: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music. 
+  - Generating from Pure Music to: Overture Sheet Files, Images, Videos, Plain Text, Philosophic Text, and Sensing Text
 - **Life**
   - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, and Aobi Island
   - Love Philosophy: Hope the current love is the last love
