@@ -16,7 +16,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, and Aobi Island
   - Love Philosophy: Hope the current love is the last love
 
-## Non-profile Organization
+## Non-profile Organization Structure
 
 - [Universe Organization](https://github.com/Universe-Organization)
   - [GooseBt Studio](https://github.com/GooseBt-Studio)
