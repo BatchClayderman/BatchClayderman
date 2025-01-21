@@ -8,7 +8,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Involved Research Directions: Bioinformatics, Digital Image Processing, FinTech, Game Theory, Halloysite, Natural Computing, Natural Language Processing, and Secure Multiparty Computation
   - Engineering
     - Programming Languages: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, LaTeX, Excel, Overture, HTML/CSS/JS/PHP, Assembly, Vivado, etc. 
-    - Repository Directions: [KMDF-based Drivers](https://github.com/GooseBt-Studio), Cryptography Schemes, [TMLP-related Development](https://github.com/TMLP-Team), Cross-programming-language Generation, [General Shell/Cmd Programming](https://github.com/Win-Linux-DOS-Team), AI-related Programming, Overture Building, etc. 
+    - Repository Directions: [KMDF-based Drivers](https://github.com/GooseBt-Studio), [Cryptography Schemes](https://github.com/BatchClayderman/Cryptography-Schemes), [TMLP-related Development](https://github.com/TMLP-Team), Cross-programming-language Generation, [General Shell/Cmd Programming](https://github.com/Win-Linux-DOS-Team), AI-related Programming, Overture Building, etc. 
 - **Music**
   - Categories of Nature-inspired Music: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music. 
   - Generating from Pure Music to: Overture Sheet Files, Images, Videos, Plain Text, Philosophic Text, and Sensing Text
