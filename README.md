@@ -28,3 +28,5 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Other Studios
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatchClayderman&hide=CMake,Objective-C%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClaydermana&repo=UWC)](https://github.com/anuraghazra/github-readme-stats)
