@@ -27,7 +27,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - [Win Linux DOS Team](https://github.com/Win-Linux-DOS-Team)
   - Other Studios
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatchClayderman&hide=CMake,Objective-C%2B%2B&layout=compact)](https://github.com/BatchClayderman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatchClayderman&hide=CMake,Objective-C%2B%2B&layout=compact)](https://github.com/BatchClayderman?tab=repositories)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClayderman&repo=LaTeXChecker)](https://github.com/BatchClayderman/LaTeXChecker)
