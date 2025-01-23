@@ -13,6 +13,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 - **Music**
   - Categories of Nature-inspired Music: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music
   - Generating from Pure Music to: Overture Sheet Files, Images, Videos, Plain Text, Philosophic Text, and Sensing Text
+  - May you a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with fairly dazzling starlight. 
 - **Life**
   - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, and Aobi Island
   - Love Philosophy: Hope the current love is the last love
