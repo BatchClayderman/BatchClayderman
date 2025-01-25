@@ -23,7 +23,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 - [Universe Organization](https://github.com/Universe-Organization)
   - [GooseBt Studio](https://github.com/GooseBt-Studio)
     - [Cloud-inspired Music Team](https://github.com/Cloud-inspired-Music-Team)
-    - [Proposition Group Planning Team](https://github.com/Proposition-Group-Planning-Team)
+    - [Proposition Group Scheme Team](https://github.com/Proposition-Group-Scheme-Team)
     - [TMLP Team](https://github.com/TMLP-Team)
     - [Win Linux DOS Team](https://github.com/Win-Linux-DOS-Team)
   - Other Studios
