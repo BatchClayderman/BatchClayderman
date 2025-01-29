@@ -17,7 +17,14 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - May you a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with fairly dazzling starlight. 
 - **Life**
   - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, and Aobi Island
-  - Love Philosophy: Hope the current love is the last love
+  - Love Philosophy: The current love should be the last one
+  - Globalization
+    - A good university should have no walls
+    - Everything that benefits the world should have no borders
+    - Freedom and Equality
+      - Everyone should be free and equal
+      - All beings should be free and equal
+      - Civilizations should be free and equal
 
 ## Non-profile Organization Structure
 
