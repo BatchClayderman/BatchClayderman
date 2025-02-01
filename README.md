@@ -16,8 +16,8 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Generating from Pure Music to: [Overture Source Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/ove%E7%9B%AE%E5%BD%95), [Formal Sheet Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music), Images, Videos, Plain Text, Philosophic Text, and Sensing Text
   - May you a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with fairly dazzling starlight. 
 - **Life**
-  - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, and Aobi Island
-  - Love Philosophy: The current love should be the last one
+  - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, Aobi Island, Outlook, Gmail
+  - Love: Married
   - Globalization
     - A good university should have no walls
     - Everything that benefits the world should have no borders
