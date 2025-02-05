@@ -13,7 +13,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Useful University Tools: [https://github.com/BatchClayderman/University-Tools](https://github.com/BatchClayderman/University-Tools)
 - **Music**
   - Categories of Nature-inspired Music: Cloud-inspired Music, Standard-inspired Music, and Driven-inspired Music
-  - Generating from Pure Music to: [Overture Source Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/ove%E7%9B%AE%E5%BD%95), [Formal Sheet Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music), Images, Videos, Plain Text, Philosophic Text, and Sensing Text
+  - Generating from Pure Music to: [Overture Source Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/ove%E7%9B%AE%E5%BD%95), [Formal Sheet Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music), [Music Generation by Track Combination](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/%E7%BA%AF%E9%92%A2%E7%90%B4), Romantic Images, Nature-inspired Videos, Plain Text, Philosophic Text, and Sensing Text
   - May you a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with fairly dazzling starlight. 
 - **Life**
   - Active on The Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, Aobi Island, Outlook, Gmail
