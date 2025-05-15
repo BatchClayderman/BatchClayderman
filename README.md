@@ -4,9 +4,8 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 
 - **Career**
   - Academics
-    - Major Research Direction: Malware Detection
-    - Involved Research Directions: Bioinformatics, Data Management, Digital Image Processing, FinTech, Game Theory, Halloysite, Natural Computing, Natural Language Processing, and Secure Multiparty Computation
-    - Hobbies: Universe Discovering, Universe Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, Endogenous GenAI, Cross-programming-language Generation, Board Game Computing, and Automatic Gaming
+    - Research Interests: Bioinformatics, Computer System Security, Digital Image Processing, Exact Algorithms, FinTech, Game Theory, Halloysite, Metaheuristic Algorithms, Natural Language Processing, and Secure Multiparty Computation
+    - Research Hobbies: Universe Discovering, Universe Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, Endogenous GenAI, Cross-programming-language Generation, Board Game Computing, and Automatic Gaming
   - Engineering
     - Programming Languages: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, Markdown/LaTeX, Excel/ET, Overture, HTML/CSS/JS/PHP, Assembly/Vivado
     - Repository Directions: [Programmable Malware Detection Framework (KMDF-based Drivers)](https://github.com/GooseBt-Studio), General Cmd/Shell Programming like [Win Linux DOS](https://github.com/Win-Linux-DOS-Team/Win-Linux-DOS), [TMLP-related Development](https://github.com/TMLP-Team/Bypasser), [Cryptography Schemes](https://github.com/BatchClayderman/Cryptography-Schemes), Board Game Computing like [chChess](https://github.com/BatchClayderman/chChess), Traditional Natural Language Processing Implementing like [UWC](https://github.com/BatchClayderman/UWC), Cross-programming-language Processing like [LaTeXChecker](https://github.com/BatchClayderman/LaTeXChecker), Useful Toolkit Development like [directoryComparator](https://github.com/BatchClayderman/directoryComparator), [General Image Classification Model Training Architecture](https://github.com/BatchClayderman/ResNet-Distribution), Evolutionary Algorithm Implementing like [ForestAdvisor](https://github.com/BatchClayderman/ForestAdvisor)
