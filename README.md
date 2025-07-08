@@ -7,7 +7,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Research Interests: Bioinformatics, Computer System Security, Digital Image Processing, Exact Algorithms, FinTech, Game Theory, Halloysite, Metaheuristic Algorithms, Natural Language Processing, and Secure Multiparty Computation
     - Research Hobbies: Universe Discovering, Universe Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, Endogenous GenAI, Cross-programming-language Generation, Board Game Computing, and Automatic Gaming
   - Engineering
-    - Programming Languages: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, Markdown/LaTeX, Excel/ET, Overture, HTML/CSS/JS/PHP, Assembly/Vivado
+    - Programming Languages Mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, Markdown/LaTeX, Excel/ET, Overture, HTML/CSS/JS/PHP, and Assembly/Vivado
     - Repository Indexes: [https://github.com/BatchClayderman/repositoryIndexes](https://github.com/BatchClayderman/repositoryIndexes)
 - **Music**
   - Categories of Nature-inspired Music: Driven-inspired Music (AM), Standard-inspired Music (BM), and Cloud-inspired Music (CM)
