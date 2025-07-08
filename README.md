@@ -5,13 +5,13 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 - **Career**
   - Academics
     - Research Interests: Bioinformatics, Computer System Security, Digital Image Processing, Exact Algorithms, FinTech, Game Theory, Halloysite, Metaheuristic Algorithms, Natural Language Processing, and Secure Multiparty Computation
-    - Research Hobbies: Universe Discovering, Universe Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, Endogenous GenAI, Cross-programming-language Generation, Board Game Computing, and Automatic Gaming
+    - Research Hobbies: Universe Discovering, Timespace Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, Endogenous GenAI, Cross-programming-language Generation, Board Game Computing, and Automatic Gaming
   - Engineering
     - Programming Languages Mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, Markdown/LaTeX, Excel/ET, Overture, HTML/CSS/JS/PHP, and Assembly/Vivado
     - Repository Indexes: [https://github.com/BatchClayderman/repositoryIndexes](https://github.com/BatchClayderman/repositoryIndexes)
 - **Music**
   - Categories of Nature-inspired Music: Driven-inspired Music (AM), Standard-inspired Music (BM), and Cloud-inspired Music (CM)
-  - Converting Cloud-inspired Music to: [Overture Source Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/ove%E7%9B%AE%E5%BD%95), [Formal Sheet Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music), [Music Generation by Track Combination](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/%E7%BA%AF%E9%92%A2%E7%90%B4), Nature-inspired (Romantic) Images, Nature-inspired (Romantic) Videos, Formal Live Videos, Synchronized Overture Playback Videos, Plain Text, Philosophic Text, and Sensing Text
+  - Converting Cloud-inspired Music from and to: [Overture Source Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/ove%E7%9B%AE%E5%BD%95), [Formal Sheet Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music), [Music Generation by Track Combination](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/%E7%BA%AF%E9%92%A2%E7%90%B4), Nature-inspired (Romantic) Images, Nature-inspired (Romantic) Videos, Formal Live Videos, Synchronized Overture Playback Videos, Plain Text, Philosophic Text, and Sensing Text
   - Music Playing: Online Pitch-shifting, Equalization, and Reverbing
   - Piano Playing: Enjoy playing the piano and discovering automatic piano-playing engines
   - Cultivation and philosophy: May you a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with fairly dazzling starlight. 
@@ -37,12 +37,3 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Other Studios
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatchClayderman&hide=CMake,Objective-C%2B%2B&layout=compact)](https://github.com/BatchClayderman?tab=repositories)
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClayderman&repo=LaTeXChecker)](https://github.com/BatchClayderman/LaTeXChecker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClayderman&repo=directoryComparator)](https://github.com/BatchClayderman/directoryComparator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClayderman&repo=UWC)](https://github.com/BatchClayderman/UWC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClayderman&repo=ResNet-Distribution)](https://github.com/BatchClayderman/ResNet-Distribution)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClayderman&repo=ForestAdvisor)](https://github.com/BatchClayderman/ForestAdvisor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BatchClayderman&repo=Inspired-Music)](https://github.com/BatchClayderman/Inspired-Music)
--->
