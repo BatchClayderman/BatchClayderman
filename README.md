@@ -5,7 +5,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 - **Career**
   - Academics
     - Research Interests: Bioinformatics, Computer System Security, Digital Image Processing, Exact Algorithms, FinTech, Game Theory, Halloysite, Metaheuristic Algorithms, Natural Language Processing, and Secure Multiparty Computation
-    - Research Hobbies: Universe Discovering, Timespace Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, Endogenous GenAI, Cross-programming-language Generation, Board Game Computing, and Automatic Gaming
+    - Research Hobbies: Universe Discovering, Timespace Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, Education, Card Game Computing, Board Game Computing, and Android Automatic Gaming
   - Engineering
     - Programming Languages Mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, Markdown/LaTeX, Excel/ET, Overture, HTML/CSS/JS/PHP, and Assembly/Vivado
     - Repository Indexes: [https://github.com/BatchClayderman/repositoryIndexes](https://github.com/BatchClayderman/repositoryIndexes)
