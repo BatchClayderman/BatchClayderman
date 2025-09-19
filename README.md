@@ -18,7 +18,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 - **Life**
   - Active only on the Following Network Platforms: Google Scholar, GitHub, CSDN, WeChat, QQ, Telegram, WhatsApp, Outlook, Gmail, and Aobi Island
   - Marital Status: Married on May 20th, 2025
-  - Passionate about open source
+  - Thoughts
     - A good university should have no walls
     - Everything that benefits the universe should have no borders
     - Freedom and Equality: Every { particle $\rightarrow$ person $\rightarrow$ being $\rightarrow$ inspired object $\rightarrow$ civilization } should be free and equal
