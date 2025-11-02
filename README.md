@@ -5,7 +5,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 - **Career**
   - Academics
     - Research Interests: Biomedical Informatics, Computational Intelligence, Deterministic Algorithms, Multimedia Security, Nanomaterials, Operating System Security, Privacy-preserving Computation, Quantitative Finance
-    - Research Hobbies: Universe Discovering, Timespace Computing, Programming Languages, Nature-inspired Music, Mathematical Proofs, Human-machine Interfaces, General Game Playing, Education, Card Game Computing, and Board Game Computing
+    - Research Hobbies: Universe Discovering, Timespace Computing, Secure Programming, Reasoning, Jailbreaking, Inspired Music, Human-machine Interfaces, and General Game Playing
   - Engineering
     - Programming Languages Mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, Markdown/LaTeX, Excel/ET, Overture, HTML/CSS/JS/PHP, and Assembly/Vivado
     - Repository Indexes: [https://github.com/BatchClayderman/BatchClayderman/blob/main/repositoryIndexes.md](./repositoryIndexes.md)
