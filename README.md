@@ -16,7 +16,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Piano Playing: Enjoy playing the piano and discovering automatic piano-playing engines
   - Cultivation and philosophy: May you a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with fairly dazzling starlight. 
 - **Life**
-  - Active only on the Following Network Platforms: Google Scholar, GitHub, Telegram, WeChat, QQ, Gmail, Outlook, Obi Island, WhatsApp, and CSDN
+  - Active only on the Following Network Platforms: GitHub, Gmail, Google Scholar, ORCID, Obi Island, Outlook, QQ, Telegram, WeChat, and WhatsApp
   - Marital Status: Married on May 20th, 2025
   - Thoughts
     - A good university should have no walls
