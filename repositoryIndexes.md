@@ -34,13 +34,12 @@ This is an index to my GitHub repositories for academic purposes.
   - UWC for an unsubmitted paper: [https://github.com/BatchClayderman/UWC](https://github.com/BatchClayderman/UWC)
   - Dynamic merge-join algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/dynamicMergeJoin](https://github.com/BatchClayderman/dynamicMergeJoin)
   - Key-spatial querying algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/keySpatialQuerying](https://github.com/BatchClayderman/keySpatialQuerying)
-- Optimized versions of other GitHub repositories
   - NSL-KDD: [https://github.com/BatchClayderman/NSL-KDD](https://github.com/BatchClayderman/NSL-KDD)
 - A repository to assist reviewers: [https://github.com/BatchClayderman/generalReviewComments](https://github.com/BatchClayderman/generalReviewComments)
 
-## Contributions or Modifications
+## Optimizations and Contributions
 
-This is an index of GitHub repositories I have contributed to, plan to contribute to, or have just made modifications to in my personal GitHub repositories. 
+This is an index of GitHub repositories I have contributed to, plan to contribute to, or just optimized in my personal GitHub repositories. 
 
 - Have ever contributed to Python charm cryptography library: [https://github.com/BatchClayderman/charm](https://github.com/BatchClayderman/charm) forked from [https://github.com/JHUISI/charm](https://github.com/JHUISI/charm)
 - Have ever contributed to a KMDF file deletion repository during the way to GooseBt (it has not been merged so far): [https://github.com/BatchClayderman/windows-kernel-file-delete](https://github.com/BatchClayderman/windows-kernel-file-delete) (Archived) forked from [https://github.com/Rhydon1337/windows-kernel-file-delete](https://github.com/Rhydon1337/windows-kernel-file-delete)
