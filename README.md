@@ -4,10 +4,10 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
 
 - **Career**
   - Academics
-    - Research Interests: Biomedical Informatics, Computational Intelligence, Deterministic Algorithms, Multimedia Security, Nanomaterials, Operating System Security, Privacy-preserving Computation, and Quantitative Finance
+    - Research Interests: Biomedical Informatics, Computer Security, Deterministic Algorithms, Multimedia Security, Nanomaterials, Optimization, Privacy-preserving Computation, and Quantitative Finance
     - Research Hobbies: Endogenous GenAI, Formal Guidelines, General Game Playing, Human-machine Interfaces, Inspired Music, Jailbreaking, Kernel Security, Lecturing, Reasoning, Secure Programming, Timespace Computing, and Universe Discovering
   - Engineering
-    - Programming Languages Mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, Matlab, Markdown/LaTeX, Excel/ET, Overture, HTML/CSS/JS/PHP, and Assembly/Vivado
+    - Programming Languages and Skills Mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, LaTeX/Markdown, WPS (Word/PowerPoint/Excel), Overture, Matlab, HTML/CSS/JS/PHP, and Assembly/Vivado
     - Repository Indexes: [https://github.com/BatchClayderman/BatchClayderman/blob/main/repositoryIndexes.md](./repositoryIndexes.md)
 - **Music**
   - Categories of Nature-inspired Music: Driven-inspired Music (AM), Standard-inspired Music (BM), and Cloud-inspired Music (CM)
