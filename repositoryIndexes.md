@@ -69,6 +69,7 @@ This is an index to my GitHub repositories about university tools.
     - 2023-2024-2: [https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2](https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2)
     - 2024-2025-2: [https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2](https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2)
   - CEDARS Anti Scam Learning Kit: [https://github.com/BatchClayderman/CEDARS-Anti-Scam-Learning-Kit](https://github.com/BatchClayderman/CEDARS-Anti-Scam-Learning-Kit)
+  - DEC AI Literacy Course: [https://github.com/BatchClayderman/DEC-AI-Literacy-Course](https://github.com/BatchClayderman/DEC-AI-Literacy-Course)
   - LaTeX
     - Multiple typesetting styles for one paper (52): [https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles](https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles)
     - LaTeX Checker (52): [https://github.com/BatchClayderman/LaTeXChecker](https://github.com/BatchClayderman/LaTeXChecker)
