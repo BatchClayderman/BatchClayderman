@@ -1,16 +1,16 @@
-# Repository Indexes
+## Indexes
 
 Here are the indexes to my GitHub repositories, which are mainly for academics and universities. 
 
-For open-source repositories and non-profile engineering, please refer to [https://github.com/Universe-Organization/Universe-Organization/](https://github.com/Universe-Organization/Universe-Organization/). 
+Regarding open-source repositories for non-profile engineering, please refer to [https://github.com/Universe-Organization/Universe-Organization/](https://github.com/Universe-Organization/Universe-Organization/). 
 
-## Academics
+### Academics
 
 This is an index to my GitHub repositories for academic purposes. 
 
 - Collections of different important topics
   - A collection of cryptography schemes: [https://github.com/BatchClayderman/Cryptography-Schemes](https://github.com/BatchClayderman/Cryptography-Schemes)
-  - A collection of top-$k$ optimal pattern querying algorithms: [https://github.com/BatchClayderman/topKMining](https://github.com/BatchClayderman/topKMining)
+  - A collection of top-$k$ optimal pattern mining algorithms: [https://github.com/BatchClayderman/topKMining](https://github.com/BatchClayderman/topKMining)
   - A collection of top-$k$ nearest neighbor (NN) querying algorithms: [https://github.com/BatchClayderman/KNNAlgorithms](https://github.com/BatchClayderman/KNNAlgorithms)
 - Repositories created for academic papers
   - ML prediction model (1): [https://github.com/BatchClayderman/ML-Prediction-Model](https://github.com/BatchClayderman/ML-Prediction-Model)
@@ -23,6 +23,9 @@ This is an index to my GitHub repositories for academic purposes.
   - Dancesport SCL-90 (44): [https://github.com/BatchClayderman/Dancesport-SCL-90](https://github.com/BatchClayderman/Dancesport-SCL-90)
   - Linear Regression for credit score computation (45): [https://github.com/BatchClayderman/LR4CSC](https://github.com/BatchClayderman/LR4CSC)
   - ForestAdvisor (46): [https://github.com/BatchClayderman/ForestAdvisor](https://github.com/BatchClayderman/ForestAdvisor)
+  - Directory comparator (49): [https://github.com/BatchClayderman/directoryComparator](https://github.com/BatchClayderman/directoryComparator)
+  - Multiple typesetting styles for one paper (52): [https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles](https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles)
+  - LaTeX Checker (52): [https://github.com/BatchClayderman/LaTeXChecker](https://github.com/BatchClayderman/LaTeXChecker)
   - UQGVE (58): [https://github.com/BatchClayderman/UQGVE](https://github.com/BatchClayderman/UQGVE)
   - SSC-JSCC (59): [https://github.com/BatchClayderman/SSC-JSCC](https://github.com/BatchClayderman/SSC-JSCC) forked from [https://github.com/yflin01f/SSC-JSCC](https://github.com/yflin01f/SSC-JSCC)
   - NTSSA (61): [https://github.com/BatchClayderman/NTSSA](https://github.com/BatchClayderman/NTSSA)
@@ -37,9 +40,9 @@ This is an index to my GitHub repositories for academic purposes.
   - NSL-KDD: [https://github.com/BatchClayderman/NSL-KDD](https://github.com/BatchClayderman/NSL-KDD)
 - A repository to assist reviewers: [https://github.com/BatchClayderman/generalReviewComments](https://github.com/BatchClayderman/generalReviewComments)
 
-## Optimizations and Contributions
+### Contributions
 
-This is an index of GitHub repositories I have contributed to, plan to contribute to, or just optimized in my personal GitHub repositories. 
+This is an index of GitHub repositories I have ever contributed to, plan to contribute to, or just modified in my personal GitHub repositories. 
 
 - Have ever contributed to Python charm cryptography library: [https://github.com/BatchClayderman/charm](https://github.com/BatchClayderman/charm) forked from [https://github.com/JHUISI/charm](https://github.com/JHUISI/charm)
 - Have ever contributed to a KMDF file deletion repository during the way to GooseBt (it has not been merged so far): [https://github.com/BatchClayderman/windows-kernel-file-delete](https://github.com/BatchClayderman/windows-kernel-file-delete) (Archived) forked from [https://github.com/Rhydon1337/windows-kernel-file-delete](https://github.com/Rhydon1337/windows-kernel-file-delete)
@@ -48,46 +51,32 @@ This is an index of GitHub repositories I have contributed to, plan to contribut
 - Modified OneTrainer: [https://github.com/BatchClayderman/OneTrainer](https://github.com/BatchClayderman/OneTrainer) forked from [https://github.com/Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer)
 - Modified OneTester: [https://github.com/BatchClayderman/OneTester](https://github.com/BatchClayderman/OneTester) forked from [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-## University Tools
+### Universities
 
 This is an index to my GitHub repositories about university tools. 
 
 - Undergraduate
-  - Coding in My First Term: [https://github.com/BatchClayderman/MyFirstTerm](https://github.com/BatchClayderman/MyFirstTerm)
-  - Coding in My Second Term: [https://github.com/BatchClayderman/MySecondTerm](https://github.com/BatchClayderman/MySecondTerm)
-  - Coding in My Third Term: [https://github.com/BatchClayderman/MyThirdTerm](https://github.com/BatchClayderman/MyThirdTerm)
-  - Coding in My Fourth Term: [https://github.com/BatchClayderman/MyFourthTerm](https://github.com/BatchClayderman/MyFourthTerm)
-  - Coding in My Fifth Term: [https://github.com/BatchClayderman/MyFifthTerm](https://github.com/BatchClayderman/MyFifthTerm)
+  - Coding in my first term: [https://github.com/BatchClayderman/MyFirstTerm](https://github.com/BatchClayderman/MyFirstTerm)
+  - Coding in my second term: [https://github.com/BatchClayderman/MySecondTerm](https://github.com/BatchClayderman/MySecondTerm)
+  - Coding in my third term: [https://github.com/BatchClayderman/MyThirdTerm](https://github.com/BatchClayderman/MyThirdTerm)
+  - Coding in my fourth term: [https://github.com/BatchClayderman/MyFourthTerm](https://github.com/BatchClayderman/MyFourthTerm)
+  - Coding in my fifth term: [https://github.com/BatchClayderman/MyFifthTerm](https://github.com/BatchClayderman/MyFifthTerm)
     - ``img_info_entropy`` written in my fifth term: [https://github.com/BatchClayderman/img_info_entropy](https://github.com/BatchClayderman/img_info_entropy)
-  - Coding in My Sixth Term: [https://github.com/BatchClayderman/MySixthTerm](https://github.com/BatchClayderman/MySixthTerm)
-  - LaTeX Template of Thesis: [https://github.com/BatchClayderman/LaTeX4JNUBachelor](https://github.com/BatchClayderman/LaTeX4JNUBachelor)
-  - Some ACM Success Codes: [https://github.com/BatchClayderman/someAC](https://github.com/BatchClayderman/someAC)
+  - Coding in my sixth term: [https://github.com/BatchClayderman/MySixthTerm](https://github.com/BatchClayderman/MySixthTerm)
+  - LaTeX template of thesis: [https://github.com/BatchClayderman/LaTeX4JNUBachelor](https://github.com/BatchClayderman/LaTeX4JNUBachelor)
+  - Some ACM AC'ed solutions: [https://github.com/BatchClayderman/someAC](https://github.com/BatchClayderman/someAC)
   - Some projects from my minor: [https://github.com/BatchClayderman/macroPrudential](https://github.com/BatchClayderman/macroPrudential) (Archived)
-  - Other Useful Tools: [https://github.com/BatchClayderman/ToolsBox](https://github.com/BatchClayderman/ToolsBox) forked from [https://github.com/HengY1Cola/ToolsBox](https://github.com/HengY1Cola/ToolsBox)
+  - Other useful tools for my undergraduate institute: [https://github.com/BatchClayderman/ToolsBox](https://github.com/BatchClayderman/ToolsBox) forked from [https://github.com/HengY1Cola/ToolsBox](https://github.com/HengY1Cola/ToolsBox)
 - Ph.D.
   - FinTech (CCST9080)
     - 2023-2024-2: [https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2](https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2)
     - 2024-2025-2: [https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2](https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2)
   - CEDARS Anti Scam Learning Kit: [https://github.com/BatchClayderman/CEDARS-Anti-Scam-Learning-Kit](https://github.com/BatchClayderman/CEDARS-Anti-Scam-Learning-Kit) (Archived)
   - DEC AI Literacy Course: [https://github.com/BatchClayderman/DEC-AI-Literacy-Course](https://github.com/BatchClayderman/DEC-AI-Literacy-Course)
-  - LaTeX
-    - Multiple typesetting styles for one paper (52): [https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles](https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles)
-    - LaTeX Checker (52): [https://github.com/BatchClayderman/LaTeXChecker](https://github.com/BatchClayderman/LaTeXChecker)
-  - Directory comparator (49): [https://github.com/BatchClayderman/directoryComparator](https://github.com/BatchClayderman/directoryComparator)
 
-## Personal Repositories
+### Homepages
 
-This is an index of my personal GitHub repositories. 
+This is an index of my GitHub homepage repositories. 
 
 - Sources of my GitHub homepage (this repository): [https://github.com/BatchClayderman/BatchClayderman](https://github.com/BatchClayderman/BatchClayderman)
 - Sources of a springboard to my GitHub homepage: [https://github.com/BatchClayderman/batchclayderman.github.io](https://github.com/BatchClayderman/batchclayderman.github.io)
-
-## Organization Repositories
-
-- [Universe Organization](https://github.com/Universe-Organization)
-  - [GooseBt Studio](https://github.com/GooseBt-Studio)
-    - [Cloud-inspired Music Team](https://github.com/Cloud-inspired-Music-Team)
-    - [Proposition Group Scheme Team](https://github.com/Proposition-Group-Scheme-Team)
-    - [TMLP Team](https://github.com/TMLP-Team)
-    - [Win Linux DOS Team](https://github.com/Win-Linux-DOS-Team)
-  - Other Studios
