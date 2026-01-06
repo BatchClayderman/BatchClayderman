@@ -33,4 +33,4 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - [Win Linux DOS Team](https://github.com/Win-Linux-DOS-Team)
   - Other Studios
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatchClayderman&hide=CMake,Objective-C%2B%2B&layout=compact)](https://github.com/BatchClayderman?tab=repositories)
+[![Top Languages](https://github-readme-stats.lovesykun.cn/api/top-langs/?username=BatchClayderman&layout=compact&hide=Jupyter%20Notebook%2CCMake%2CObjective-C%2B%2B%2CCuda%2CSwift%2CBibTeX%20Style&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12)](https://github.com/BatchClayderman?tab=repositories)
