@@ -78,5 +78,5 @@ This is an index to my GitHub repositories about university tools.
 
 This is an index of my GitHub homepage repositories. 
 
-- Sources of my GitHub homepage (this repository): [https://github.com/BatchClayderman/BatchClayderman](https://github.com/BatchClayderman/BatchClayderman)
+- Sources of my GitHub homepage (this repository): [https://github.com/BatchClayderman/BatchClayderman](https://github.com/BatchClayderman/BatchClayderman) (many thanks to [@yujincheng08](https://github.com/yujincheng08) for her/his API)
 - Sources of a springboard to my GitHub homepage: [https://github.com/BatchClayderman/batchclayderman.github.io](https://github.com/BatchClayderman/batchclayderman.github.io)
