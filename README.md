@@ -8,7 +8,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Research hobbies: Endogenous GenAI, Formal Guidelines, General Game Playing, Human-machine Interfaces, Inspired Music, Jailbreaking, Kernel Security, Lecturing, Reasoning, Secure Programming, Timespace Computing, and Universe Discovering
   - Engineering
     - Programming languages and skills mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, LaTeX/Markdown, WPS (Word/PowerPoint/Excel), Overture, Matlab, HTML/CSS/JS/PHP, and Assembly/Vivado
-    - Repository indexes: [https://github.com/BatchClayderman/BatchClayderman/blob/main/repositoryIndexes.md](./repositoryIndexes.md)
+    - Repository indexes: [https://github.com/BatchClayderman/BatchClayderman/blob/main/indexes.md](./indexes.md)
 - **Music**
   - Categories of nature-inspired music: Driven-inspired Music (AM), Standard-inspired Music (BM), and Cloud-inspired Music (CM)
   - Converting cloud-inspired music from and to: [Overture Source Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/ove%E7%9B%AE%E5%BD%95), [Formal Sheet Files](https://github.com/Cloud-inspired-Music-Team/Inspired-Music), [Music Generation by Track Combination](https://github.com/Cloud-inspired-Music-Team/Inspired-Music/tree/main/%E7%BA%AF%E9%92%A2%E7%90%B4), Nature-inspired (Romantic) Images, Nature-inspired (Romantic) Videos, Formal Live Videos, Synchronized Overture Playback Videos, Plain Text, Philosophic Text, and Sensing Text
