@@ -37,6 +37,7 @@ This is an index to my GitHub repositories for academic purposes.
   - UWC for an unsubmitted paper: [https://github.com/BatchClayderman/UWC](https://github.com/BatchClayderman/UWC)
   - Dynamic merge-join algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/dynamicMergeJoin](https://github.com/BatchClayderman/dynamicMergeJoin)
   - Key-spatial querying algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/keySpatialQuerying](https://github.com/BatchClayderman/keySpatialQuerying)
+  - AlzdPredictor for an unsubmitted paper: [https://github.com/BatchClayderman/AlzdPredictor](https://github.com/BatchClayderman/AlzdPredictor)
   - NSL-KDD: [https://github.com/BatchClayderman/NSL-KDD](https://github.com/BatchClayderman/NSL-KDD)
 - A repository to assist reviewers: [https://github.com/BatchClayderman/generalReviewComments](https://github.com/BatchClayderman/generalReviewComments)
 
