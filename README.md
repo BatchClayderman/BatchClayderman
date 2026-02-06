@@ -7,7 +7,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
     - Research interests: Biomedical Informatics, Computer Security, Deterministic Algorithms, Multimedia Security, Nanomaterials, Optimization, Privacy-preserving Computation, and Quantitative Finance
     - Research hobbies: Endogenous GenAI, Formal Guidelines, General Game Playing, Human-machine Interfaces, Inspired Music, Jailbreaking, Kernel Security, Lecturing, Reasoning, Secure Programming, Timespace Computing, and Universe Discovering
   - Engineering
-    - Programming languages and skills mastered: C/C++/MFC/KMDF, Python, Java, cmd/shell, LaTeX/Markdown, WPS (Word/PowerPoint/Excel), Overture, Matlab, HTML/CSS/JS/PHP, and Assembly/Vivado
+    - Technical Skills: C/C++/MFC/KMDF, Python, Java, cmd/shell, LaTeX/Markdown, Word/PPT/Excel, JSON/XML/YAML, Matlab, HTML/CSS/JS/PHP, and Assembly/Vivado
     - Repository indexes: [https://github.com/BatchClayderman/BatchClayderman/blob/main/indexes.md](./indexes.md)
 - **Music**
   - Categories of nature-inspired music: Driven-inspired Music (AM), Standard-inspired Music (BM), and Cloud-inspired Music (CM)
@@ -16,7 +16,7 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Piano playing: Enjoy playing the piano and discovering automatic piano-playing engines
   - Cultivation and philosophy: May you have a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with ethereally dazzling starlight
 - **Life**
-  - Active only on the 10 following network platforms: GitHub, Gmail, Google Scholar, ORCID, Obi Island, Outlook, QQ, Telegram, WeChat, and WhatsApp (others can be scamers)
+  - Active only on the 10 following network platforms: GitHub, Gmail, Google Scholar, ORCID, Obi Island, Outlook, QQ, Telegram, WeChat, and WhatsApp (others can be scammers)
   - Marital status: Married on May 20th, 2025
   - Thoughts
     - A good university should have no walls
