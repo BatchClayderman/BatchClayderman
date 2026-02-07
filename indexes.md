@@ -64,7 +64,7 @@ This is an index to my GitHub repositories about university tools.
   - Coding in my fifth term: [https://github.com/BatchClayderman/MyFifthTerm](https://github.com/BatchClayderman/MyFifthTerm)
     - ``img_info_entropy`` written in my fifth term: [https://github.com/BatchClayderman/img_info_entropy](https://github.com/BatchClayderman/img_info_entropy)
   - Coding in my sixth term: [https://github.com/BatchClayderman/MySixthTerm](https://github.com/BatchClayderman/MySixthTerm)
-  - LaTeX template of thesis: [https://github.com/BatchClayderman/LaTeX4JNUBachelor](https://github.com/BatchClayderman/LaTeX4JNUBachelor)
+  - LaTeX template of thesis: [https://github.com/BatchClayderman/LaTeX4JNUBachelor](https://github.com/BatchClayderman/LaTeX4JNUBachelor) (Archived)
   - Some ACM AC'ed solutions: [https://github.com/BatchClayderman/someAC](https://github.com/BatchClayderman/someAC)
   - Some projects from my minor: [https://github.com/BatchClayderman/macroPrudential](https://github.com/BatchClayderman/macroPrudential) (Archived)
   - Other useful tools for my undergraduate institute: [https://github.com/BatchClayderman/ToolsBox](https://github.com/BatchClayderman/ToolsBox) forked from [https://github.com/HengY1Cola/ToolsBox](https://github.com/HengY1Cola/ToolsBox)
